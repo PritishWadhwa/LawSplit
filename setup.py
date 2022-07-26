@@ -2,7 +2,7 @@ from distutils.core import setup
 setup(
     name='lawsplit',
     packages=['lawsplit'],
-    version='1.0.1',
+    version='1.0.2',
     license='MIT',
     description='LawSplit: A smart legal text sentence splitter',
     author='Pritish Wadhwa',
