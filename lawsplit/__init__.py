@@ -1,1 +1,1 @@
-from lawsplit import split_data
+from lawsplit.lawsplit import split_data
