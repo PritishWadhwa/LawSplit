@@ -8,7 +8,7 @@ setup(
     author='Pritish Wadhwa',
     author_email='pritish19440@iiitd.ac.in',
     url='https://github.com/PritishWadhwa',
-    download_url='https://github.com/PritishWadhwa/LawSplit/archive/refs/tags/v1.0.2.tar.gz',
+    download_url='https://github.com/PritishWadhwa/LawSplit/archive/refs/tags/v1.0.3.tar.gz',
     keywords=['LEGAL', 'SPLIT', 'PARAGRAPH', 'DOCUMENTS', 'NLP', 'SENTENCES'],
     install_requires=[
         'pysbd'
